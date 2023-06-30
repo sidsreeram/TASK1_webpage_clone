@@ -4,6 +4,10 @@
  
     padding: 0;
 }
+body{
+    overflow-x: hidden;
+  
+}
 @font-face{
     font-family: font1;
     src: url(mustang/ford-antenna-cufonfonts-webfont/ford-antenna-medium-cnd-587bd97171cbd.woff);
@@ -1222,7 +1226,7 @@ font-size: 14px;
 }
 
 .lang{
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     padding-left: 100px;
     display: flex;
     align-items: center;
